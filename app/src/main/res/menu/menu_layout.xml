@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/CardView1"
+        android:title="CardView1"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/pesquisar"
+        android:icon="@drawable/ic_search_dp"
+        android:title="Pesquisar"
+        app:showAsAction="always"
+        />
+    <item
+        android:id="@+id/CardView2"
+        android:title="CardView2"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/CardView3"
+        android:title="CardView3"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/CardView4"
+        android:title="CardView4"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/CardView5"
+        android:title="CardView5"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/CardView6"
+        android:title="CardView6"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/CardView7"
+        android:title="CardView7"
+        app:showAsAction="never"/>
+
+</menu>
